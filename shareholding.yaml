@@ -1,0 +1,10 @@
+output_path: /home/xuqingying/my_work/EGES/EKGL/embeddings/relation_embeddings.pt
+dynamic_edge_path: /home/xuqingying/my_work/EGES/EKGL/data/edges_dynamic.txt
+preserved_node_embedding_path: /home/xuqingying/my_work/EGES/EKGL/embeddings/2019embeddings.npy
+
+batch_size: 256
+device: cuda
+
+time_buckets: 10
+
+epochs: 1
